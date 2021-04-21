@@ -3,7 +3,7 @@
 Fork of epic noir Theme modified by CodyV59 to fit the RG351V from anbernic
 Thanks to Chicuelo and Nick L (c64-dev)
 
-Edits made by CodyV59
+Edits made by CodyV59 and Szalik
 Deacreased file sizes by nearly half, added systems, and made edits to make it viewable on smaller 480x320 devices like Odroid Go Advanced, RGB10, RK2020, RG351P, ect.
 
 ---
