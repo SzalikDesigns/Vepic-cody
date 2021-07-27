@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Screenshots</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Screenshots</text>
+    <fontSize>0.16</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.12</pos>
+    <size>0 0</size>
+  </text>  
+  <text name="shortdescription" extra="true">
+   <text>All Screenshots </text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Access and quickly view all of your Screenshots.</text>
+  </text>
+ </view>
+</theme>
